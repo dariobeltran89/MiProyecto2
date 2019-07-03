@@ -1,3 +1,4 @@
-# MiProyecto
-Aprendiendo a manejar Git Hub con PLATZI
-Micando el archivo para commit.
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
